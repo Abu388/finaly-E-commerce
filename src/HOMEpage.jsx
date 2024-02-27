@@ -3,9 +3,9 @@ import React from 'react';
 import img1 from './Shoe/1.jpg';
 import img2 from './Shoe/2.jpg'
 import img3 from './Shoe/3.jpg'
-import img4 from './Shoe/4.JPG'
+import img4 from './Shoe/4.jpg'
 import img5 from './Shoe/5.jpg'
-import img6 from './Shoe/6.JPG'
+import img6 from './Shoe/6.jpg'
 import img7 from './Shoe/7.jpg'
 import img8 from './Shoe/8.jpg'
 
